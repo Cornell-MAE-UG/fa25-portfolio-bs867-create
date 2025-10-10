@@ -15,6 +15,6 @@ My design uses the linear actuator- IMA 33 MV43 which has a max force of 11.1 ki
 
 The following image contains all my work as to how I calculated the amount of allowable weight this lifitng mechanism can support. 
 
-<img src="{{ '/assets/images/HW4- Calculations.jpg' | relative_url }}" alt="Calculations>
+<img src="{{ '/assets/images/HW 4- Calculations.jpg' | relative_url }}" alt="Calculations">
 
 
