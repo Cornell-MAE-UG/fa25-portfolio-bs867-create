@@ -1,24 +1,23 @@
 ---
 layout: project
 title: Lifting Mechanism Design
-description: Statics and Mechanics design 
-image: /assets/images/radio-machine-cad.jpg
+description: Statics and Mechanics of Solids design of a lifting mechanism usign a linear actuator, a rigid bar and three pins wihtin a space of 150 cm wide by 50 cm tall
+images: /assets/images/HW 4- Portfolio Design.jpg
+        /assets/images/HW 4- Calculations.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For my Statics and Mechanics of Solids class, we were instructed to make a lifting mechanism. Our constraints were to keep our design within a 2D space of 150 cm wide by 50 cm tall. We were allowed to use a linear actuator that we chose from an [online catalog](https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf), a rigid linear bar that could have any length, as long as it stayed within the constrained space, and three pins. Two of these pins had to be pinned on the ground.
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My design uses the linear actuator- IMA 33 MV43 which has a max force of 11.1 kiloNewtons(kN). The bar was already lifted an initial height of 21.52 centimeters(cm) due to the initial height of the base of the linear actuator. The left edge of the bar is connected by a pin suport to the left side of the space we're given and the linear actuator is pinned all the way at the right edge of the space. The last pin is one between the end of the linear actuator's piston that extends and the linear bar. Please refer to the image at the beginning to get a visual of the design space.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
-I was inspired by this old radio when I made this rendering:
+The following image contains all my work as to how I calculated the amount of allowable weight this lifitng mechanism can support.
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+---
+images: /assets/images/HW 4- Calculations.jpg
+---
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+
