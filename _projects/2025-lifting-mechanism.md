@@ -10,11 +10,11 @@ For my Statics and Mechanics of Solids class, we were instructed to make a lifti
 
 My design uses the linear actuator- IMA 33 MV43 which has a max force of 11.1 kiloNewtons(kN). The bar was already lifted an initial height of 21.52 centimeters(cm) due to the initial height of the base of the linear actuator. The left edge of the bar is connected by a pin suport to the left side of the space we're given and the linear actuator is pinned all the way at the right edge of the space. The last pin is one between the end of the linear actuator's piston that extends and the linear bar. Please refer to the image at the beginning to get a visual of the design space.
 
-<img src= "/assets/images/HW 4- Portfolio Design.jpg" alt="HW 4- Portfolio Design" width="500">
+<img src="{{ '/assets/images/HW4-Portfolio-Design.jpg' | relative_url }}" alt="HW 4 Portfolio Design" width="500">
 
-The following image contains all my work as to how I calculated the amount of allowable weight this lifitng mechanism can support.
+The following image contains all my work as to how I calculated the amount of allowable weight this lifitng mechanism can support. 
 
-<img src="/assets/images/HW 4- Calculations.jpg" alt="HW 4- Calculations" width="500">
+<img src="{{ '/assets/images/HW4-Calculations.jpg' | relative_url }}" alt="HW 4 Portfolio Design" width="500">
 
 
 
