@@ -19,10 +19,10 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.6/4.0 | Graduation: May, 2028
 
-- **Albany High school**  
+- **Albany High School**  
   *High School Diploma*  
   Graduation: [June, 2024]
 
@@ -30,7 +30,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Programming:** Python
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
