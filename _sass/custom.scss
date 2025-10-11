@@ -55,6 +55,8 @@ footer {
 
 .container {
   max-width: 600px;
+  margin: 0 auto;         // centers the content horizontally
+  padding: 0 20px;
 }
 
 .project-item img {
@@ -200,4 +202,10 @@ footer {
   transform: translateX(-4px);
 }
 
+.project-image, .inline-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
 
