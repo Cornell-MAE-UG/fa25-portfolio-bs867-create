@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Badia Syed
 description              : Badia Syed - Projects and CV 
-baseurl                  : "/fa25-portfolio-bs867-create/" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-bs867-create" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
