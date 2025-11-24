@@ -1,9 +1,8 @@
 ---
 layout: project
-title: Throttling Valve Breakdown 
+title: Throttling Device Valve Breakdown 
 description: Breakdown of a thermal device, how it works, and relevant equations
-image: /assets/images/Diff-Throttles.jpg
-    /assests/images/Real-Throttle.png
+image: /assests/images/Real-Throttle.png
 ---
 In Thermodyanmics, we have discussed many different devices, their functions, and what settings they are best used for. As part of an assignment, I wil break down the functions of a throttling device valve and an example of an operating condition we can change that would lead to a change to how we analyze the device. 
 
@@ -17,3 +16,4 @@ When making the key equations to analyze the throttle valve, I will make the fol
 
 <img src="{{ '/assets/images/Throttle-Calc.jpg' | relative_url }}" alt="Throttle Calc" width="500">
 
+An example of an operating condition we could change is the size of restriction that we placed in the flow. If we increase the size of our restriction, then that will result in more resistance to the mass flow therefore a greater pressure drop, and the opposite is true as well, a smaller restriction gives less flow resistance, therefore a smaller pressure drop. A larger pressure drop will result in more of the liquid to turn into vapor, that will also lead to a colder temperature as a byproduct, and vice versa for a smaller pressure drop. There are also consequences if it's too small or too large. If it's too small, then the mass flow may be too restricted that would reduce the efficiency of the system. If it's too large, it may not reach a cold enough temperate or low enough pressure or its liquid to vapor ratio may be too high. 
