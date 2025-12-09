@@ -5,8 +5,13 @@ description: Statics and Mechanics of Solids design of a lifting mechanism usign
 images: /assets/images/HW 4- Portfolio Design.jpg
         /assets/images/HW 4- Calculations.jpg
 ---
+**Step 1:**
 
-For my Statics and Mechanics of Solids class, we were instructed to make a lifting mechanism. Our constraints were to keep our design within a 2D space of 150 cm wide by 50 cm tall. We were allowed to use a linear actuator that we chose from an [online catalog](https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf), a rigid linear bar that could have any length, as long as it stayed within the constrained space, and three pins. Two of these pins had to be pinned on the ground.
+**Problem Definition, Constraints, Degrees of Freedom:**
+
+For my Statics and Mechanics of Solids class, we were instructed to make a lifting mechanism. Our constraints were to keep our design within a 2D space of 150 cm wide by 50 cm tall. Our design had to remain in static equilibrium. We were allowed to use a linear actuator that we chose from an [online catalog](https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf), a rigid linear bar that could have any length, as long as it stayed within the constrained space, and three pins. Two of these pins had to be pinned on the ground. My stroke length, H<sub>lift</sub> has to remain within the total 50 cm height constraint. Since this is a 2D deisgn, this design has 3 degrees of freedom.  
+
+**Static Analysis:**
 
 My design uses the linear actuator- IMA 33 MV43 which has a max force of 11.1 kiloNewtons(kN). The bar was already lifted an initial height of 21.52 centimeters(cm) due to the initial height of the base of the linear actuator. The left edge of the bar is connected by a pin suport to the left side of the space we're given and the linear actuator is pinned all the way at the right edge of the space. The last pin is one between the end of the linear actuator's piston that extends and the linear bar. Please refer to the image at the beginning to get a visual of the design space.
 
@@ -15,3 +20,9 @@ My design uses the linear actuator- IMA 33 MV43 which has a max force of 11.1 ki
 The following image contains all my work as to how I calculated the amount of allowable weight this lifitng mechanism can support. 
 
 <img src="{{ '/assets/images/HW 4-Calculations.jpg' | relative_url }}" alt="HW 4 Portfolio Design" width="500">
+
+**Step 2:**
+
+**Maximum Deflection and Beam Design:**
+
+I will now consider if my beam if not rigid and it can bend due to the applied vertical force of the actuator. I used the W<sub>max</sub> I found in my previous step. I created equations to find V(x), the shear force throughout the beam, which I found to be constant, and M(x), the internal moment throughout the beam. I then integrated my found M(x) equation twice to find the delection equation. This is from the formula EIy(x)"=M(x), where E is a material property, and I is dependent on the shape I will later choose. I then took the derivative of y(x), y'(x), to see where y'(x)=0, to find the maximum deflection, which I found to be L/√3. Below is an image of my calculations and specific analysis. 
