@@ -2,7 +2,7 @@
 layout: project
 title: Throttling Device Valve Breakdown 
 description: Breakdown of a thermal device, how it works, and relevant equations
-image: /assets/images/Real-Throttle.png
+image: /assets/images/Valve.jpeg
 ---
 In Thermodyanmics, we have discussed many different devices, their functions, and what settings they are best used for. As part of an assignment, I wil break down the functions of a throttling device valve and an example of an operating condition we can change that would lead to a change to how we analyze the device. 
 
