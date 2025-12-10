@@ -2,7 +2,7 @@
 layout: project
 title: Lifting Mechanism Design
 description: Statics and Mechanics of Solids design of a lifting mechanism usign a linear actuator, a rigid bar and three pins wihtin a space of 150 cm wide by 50 cm tall
-images: /assets/images/Actuator.jpg
+image: /assets/images/Actuator.jpg
 ---
 **Step 1:**
 

@@ -1,6 +1,6 @@
 --- 
-# this ensures Jekyll reads the file to be transformed into CSS later 
-# only Main files contain this front matter,not partials. 
+#this ensures Jekyll reads the file to be transformed into CSS later 
+#only Main files contain this front matter,not partials. 
 --- 
 
 $color_scheme: '{{ site.color_scheme }}';
@@ -13,3 +13,11 @@ img {
     height: auto;
     display: block;
     margin: 1rem auto; /* centers the image with some space around it */}
+
+
+.project-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 0.5rem;
+}
