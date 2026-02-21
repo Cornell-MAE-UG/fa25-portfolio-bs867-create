@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+<!-- <p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p> -->
+
+
+{% if page.image %}
+  <img src="{{ page.image }}">
+{% endif %}
 
 <h1>{{ page.title }}</h1>
 

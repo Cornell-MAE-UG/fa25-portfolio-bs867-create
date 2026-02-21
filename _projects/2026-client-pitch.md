@@ -6,7 +6,8 @@ image: /assets/images/SLF.jpeg
 ---
 
 
-# Pre-harvesting Apparatus Client Proposal
+# Pre-Harvesting Apparatus Client Proposal
+
 **Team:** The Entomophiles
 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
