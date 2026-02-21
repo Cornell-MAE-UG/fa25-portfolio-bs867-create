@@ -4,6 +4,9 @@ title: Throttling Device Valve Breakdown
 description: Breakdown of a thermal device, how it works, and relevant equations
 image: /assets/images/Valve.jpeg
 ---
+
+
+
 In Thermodyanmics, we have discussed many different devices, their functions, and what settings they are best used for. As part of an assignment, I wil break down the functions of a throttling device valve and an example of an operating condition we can change that would lead to a change to how we analyze the device. 
 
 The primary function of a throttling device is to quickly reduce the pressure by a significant amount by restricting or limiting the flow in some way. There is only one inlet and outlet, therefore, a consistent mass flow per unit time. There is no work done on the fluid or created by the valve, since just there's simply some type of restriction introduced in the path of a mass flow(usually liquid or gas) that quickly reduces the pressure. Throttling valves are commonly used in refrigeration systems for example to reduce the pressure of refrigerant at the exit of a condenser to lower pressure to go into an evaporator. Below are diagrams of some different throttle valves as well as the cross section of a valve. 
