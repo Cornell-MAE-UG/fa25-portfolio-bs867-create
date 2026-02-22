@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 SLF Solutions Client Pitch
+title: SLF Solutions Client Pitch
 description: Open design project- part 3- client pitch
 image: /assets/images/SLF.jpeg
 ---
