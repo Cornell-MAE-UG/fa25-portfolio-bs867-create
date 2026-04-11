@@ -1,10 +1,13 @@
 ---
 layout: project
-title: SLF Solutions Client Pitch
+title: MAE 2250 Open Design Project
 description: Open design project- part 3- client pitch
 image: /assets/images/SLF.jpeg
 ---
 
+## Table of Contents
+- [Client Proposal](#pre-harvesting-apparatus-client-proposal)
+- [Functional Prototype](#functional-prototype)
 
 # Pre-Harvesting Apparatus Client Proposal
 
@@ -50,6 +53,46 @@ Focus on questions they can answer from lived experience.
 3. **Is a stable water supply available, and can the harvester power a compressor?**  
    *Decision affected:* If not, air requires onboard compression and water requires onboard storage, increasing weight.
 
+#Functional Prototype
 
+##Purpose
+This prototype allowed us to test how to create a consistent water flow for our apparatus. It also allowed us to test its structural integrity. 
 
+##Assembly Instructions:
+1. Assemble main frame
+   a. Fit metal rods into printed corner joints tightly. Orient 4 shorter rods vertically for balanced structure.
+
+2. Assemble pipe structure
+   a. Connect four T-connectors(horizontally) in a straight line with 1¾” pieces in between each connector and 1¾” pieces at the ends as well. Place an end cap on one end.
+   b. On each T- connector, connect the foot-long pvc pipes, with drilled holes alternating in offset. Place end caps at the end of each pipe. 
+   c. Hose - Used 1” schedule 40 PVC to connect threaded barbed hose connectors to the ¾” PVC. We plan on using the other side of the hose to connect to our reservoir with a valve in the future. The hose was attached between these barbed connectors
+   d. Attach pipe structure to frame with zip-ties (temporary). Where necessary, tie two zip-ties together for increased length.
+
+##Design Sketch and Picture
+<img src="{{ '/assets/images/ODP-5-Sketch.png' | relative_url }}" alt="ODP 5 Sketch" width="500">
+
+##Design Tests
+Poured water into the hose of the prototype several times. Placed structure above two bins to collect water.
+- Visually inspected for unintended water leakages.
+   - Part it’s testing: Testing security of connections, whether significant design changes are necessary for the parts conducting water. 
+   - Results: Noticed small dripping leakage at threaded connection between PVC pipe and barbed hose connector
+   - Conclusion: Tapping the PVC pipe at the connection could reduce leakage.
+
+- Placed absorbent cloth in the bin under the prototype.
+   - Part it’s testing: Whether the “checkerboard” distribution of holes and pipes is sufficient to ensure good saturation of the area within the frame.
+   - Results: Cloth was fully soaked. 
+   - Conclusion: Good saturation is achieved. However, it may be a future consideration to implement nozzles or other to further improve saturated area and reduce damage to plants caused by a direct dripping flow.
+
+- Measured 1000mL of water, poured into the hose at a steady rate. Time to fully drain was recorded.
+   - Part it’s testing: Hose and piping carrying water, and whether there are significant blockages.
+   - Results: Expended 1000mL in 58.07 sec. 
+   - Conclusion: Water flows well. Existing connections and methods of processing piping are good in this regard.
+
+##Success Criteria: 
+- 16 mL/sec water flow rate- expends the small scale jug in about 4 minutes. Sufficient water flow is important to knock SLF off, but excessive flow is harmful (can wash away grapes).
+   - Goal achieved: Expends 1000mL in 58.07 sec, which is a flow rate of 17.2 mL/sec. Therefore, we know water flows efficiently through the piping. However, we believe that with improved nozzles, we can retain full saturation with less flow, thus increasing efficiency with respect to the amount of water consumed.
+- Minimal frame deflection when only supported from one end. A sturdy, stable structure is necessary for repeated use. 
+   - Goal achieved: Frame is sturdy and stands stable on the edges of a plastic bin.
+- Open center for grape vines to pass through, and water saturates at least 75% of the surface area directly below the frame (0.75 square feet) within 30 seconds. Water should be spread around evenly within the frame such that no areas potentially containing SLF are missed. 	
+   - Goal achieved: Placed absorbent cloth in bin under the prototype to test the surface area that the water reaches; cloth was fully soaked. 
 
