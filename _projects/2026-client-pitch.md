@@ -53,25 +53,30 @@ Focus on questions they can answer from lived experience.
 3. **Is a stable water supply available, and can the harvester power a compressor?**  
    *Decision affected:* If not, air requires onboard compression and water requires onboard storage, increasing weight.
 
-#Functional Prototype
+# Functional Prototype
 
-##Purpose
-This prototype allowed us to test how to create a consistent water flow for our apparatus. It also allowed us to test its structural integrity. 
+## Purpose
+This prototype allowed us to create a scaled model of our design and test how to create a consistent water flow for our apparatus. It also allowed us to test its structural integrity. 
 
-##Assembly Instructions:
+## Assembly Instructions:
 1. Assemble main frame
+
    a. Fit metal rods into printed corner joints tightly. Orient 4 shorter rods vertically for balanced structure.
 
 2. Assemble pipe structure
+
    a. Connect four T-connectors(horizontally) in a straight line with 1¾” pieces in between each connector and 1¾” pieces at the ends as well. Place an end cap on one end.
+
    b. On each T- connector, connect the foot-long pvc pipes, with drilled holes alternating in offset. Place end caps at the end of each pipe. 
+
    c. Hose - Used 1” schedule 40 PVC to connect threaded barbed hose connectors to the ¾” PVC. We plan on using the other side of the hose to connect to our reservoir with a valve in the future. The hose was attached between these barbed connectors
+   
    d. Attach pipe structure to frame with zip-ties (temporary). Where necessary, tie two zip-ties together for increased length.
 
-##Design Sketch and Picture
+## Design Sketch and Picture
 <img src="{{ '/assets/images/ODP-5-Sketch.png' | relative_url }}" alt="ODP 5 Sketch" width="500">
 
-##Design Tests
+## Design Tests
 Poured water into the hose of the prototype several times. Placed structure above two bins to collect water.
 - Visually inspected for unintended water leakages.
    - Part it’s testing: Testing security of connections, whether significant design changes are necessary for the parts conducting water. 
@@ -88,7 +93,7 @@ Poured water into the hose of the prototype several times. Placed structure abov
    - Results: Expended 1000mL in 58.07 sec. 
    - Conclusion: Water flows well. Existing connections and methods of processing piping are good in this regard.
 
-##Success Criteria: 
+## Success Criteria: 
 - 16 mL/sec water flow rate- expends the small scale jug in about 4 minutes. Sufficient water flow is important to knock SLF off, but excessive flow is harmful (can wash away grapes).
    - Goal achieved: Expends 1000mL in 58.07 sec, which is a flow rate of 17.2 mL/sec. Therefore, we know water flows efficiently through the piping. However, we believe that with improved nozzles, we can retain full saturation with less flow, thus increasing efficiency with respect to the amount of water consumed.
 - Minimal frame deflection when only supported from one end. A sturdy, stable structure is necessary for repeated use. 
