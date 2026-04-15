@@ -56,7 +56,7 @@ Aspiring engineering student with a strong foundation in design and CAD modeling
   - Analyzed and reviewed discrepancies between account balances.
   - Volunteered in annual “Evening in the Garden” fundraiser event to raise donations
 
-**[Bank of America] - Accounting Intern**  
+- **[Bank of America] - Accounting Intern**  
   [June, 2023] - [August, 2023]  
   - Eight-week summer internship, placed with local non-profit organization, United Way of
   the Greater Capital Region.
